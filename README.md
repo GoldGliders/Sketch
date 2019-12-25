@@ -3,6 +3,6 @@
 - docker
 - docker-compose
 ## How to use
-`cd Sketch`
-`docker-compose build`
-`docker-compose up`
+`cd Sketch  
+docker-compose build  
+docker-compose up`
